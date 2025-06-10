@@ -39,7 +39,7 @@ You can run this entire project yourself with just a web browser.
     * From your dashboard, find and copy your **authtoken**.
 
 2.  **Open the Google Colab Notebook:**
-    * [https://colab.research.google.com/path/to/your/Sentiment_Analysis_Web_App.ipynb](https://colab.research.google.com/drive/1HbkSNClRk9WPKa9STBY1bRsdD8QkcNtF?usp=sharing)
+    * [Sentiment_Analysis_Web_App.ipynb](Sentiment_Analysis_Web_App.ipynb)
 
 3.  **Run the Code:**
     * Find the main code cell in the notebook.
