@@ -4,10 +4,9 @@ This project is an end-to-end prototype of a machine learning application that p
 
 The entire application is designed to run within a single Google Colab notebook, demonstrating a full development and prototyping cycle.
 
-### Live Demo Screenshot
+### Live Demo 
 
-*(Replace this with a screenshot of your own running app!)*
-![Live Demo](https://i.imgur.com/kYF9X3w.png)
+![Live Demo GIF](Sentimental_analysis.gif)
 
 ---
 
@@ -40,12 +39,11 @@ You can run this entire project yourself with just a web browser.
     * From your dashboard, find and copy your **authtoken**.
 
 2.  **Open the Google Colab Notebook:**
-    * *(You would link to your own Colab notebook here)*
-    * `https://colab.research.google.com/path/to/your/notebook.ipynb`
+    * `[https://colab.research.google.com/path/to/your/notebook.ipynb](https://colab.research.google.com/drive/1HbkSNClRk9WPKa9STBY1bRsdD8QkcNtF?usp=sharing)`
 
 3.  **Run the Code:**
     * Find the main code cell in the notebook.
-    * Locate the line `authtoken = "PASTE_YOUR_NGROK_AUTH_TOKEN_HERE"` and paste your `ngrok` authtoken.
+    * Locate the line `authtoken = "NGROK_AUTH_TOKEN_HERE"` and paste your `ngrok` authtoken.
     * Run the cell by clicking the "Play" button. The script will install libraries, train the model, and launch the web server.
 
 4.  **Access the Prototype:**
